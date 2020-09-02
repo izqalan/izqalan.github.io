@@ -14,7 +14,7 @@
   used:
     - thing: Android
     - thing: Java
-    - think: Firebase
+    - thing: Firebase
     - thing: Google Map API
 
 - name: Air quality index
