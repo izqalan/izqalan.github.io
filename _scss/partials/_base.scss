@@ -23,7 +23,7 @@ body {
   font-family: $Apercu;
   line-height: 1.5;
   width: 100%;
-
+  scroll-snap-type: y mandatory;
   &.night {
     background-color: $night;
     color: $slate;
@@ -247,4 +247,8 @@ strong {
 .in-view {
   opacity: 1;
   transform: translateZ(0);
+}
+
+.snap {
+  scroll-snap-align: center;
 }
