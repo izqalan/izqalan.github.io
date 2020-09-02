@@ -11,6 +11,8 @@ resume: https://izqalan.github.io/resume.pdf
 social:
   - title: email
     url: mailto:izqalan@protonmail.com
+  - title: resume
+    url: https://izqalan.github.io/resume.pdf
   - title: github
     url: https://github.com/izqalan
   - title: linkedin
