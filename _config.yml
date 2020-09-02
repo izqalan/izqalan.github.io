@@ -1,0 +1,39 @@
+# Site settings
+name: Izqalan Nor'Izad
+title: Izqalan Nor'Izad | Software Engineer
+description: front-end software engineer focused on building beautiful interfaces and experiences
+url: https://izqalan.github.io/
+baseurl: ''
+email: izqalan@protonmail.com
+cover: https://izqalan.github.io/img/og.png
+logo: https://izqalan.github.io/img/emojis/technologist.png
+resume: https://izqalan.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:izqalan@protonmail.com
+  - title: github
+    url: https://github.com/izqalan
+  - title: linkedin
+    url: https://www.linkedin.com/in/izqalan
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

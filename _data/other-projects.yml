@@ -1,0 +1,47 @@
+- name: Bank Negara Open API
+  url: https://api.bnm.gov.my/portal
+  code: https://github.com/izqalan/bnm-api
+  description: Javascript warapper for Bank Negara open API and published to <a class="underline-link" href="https://www.npmjs.com/package/bnm-api">Node Package Manager</a>.
+  used:
+    - thing: JavaScript
+    - thing: NodeJs
+    - thing: Axios
+
+- name: Collaborative Kitchen
+  url: https://github.com/izqalan/fren
+  code: https://github.com/izqalan/fren
+  description: Android project for my Computer Science senior project. A kitchen collaboration android application that allows users to find the nearest open kitchen.
+  used:
+    - thing: Android
+    - thing: Java
+    - think: Firebase
+    - thing: Google Map API
+
+- name: Air quality index
+  url: https://github.com/izqalan/air-quality-index
+  code: https://github.com/izqalan/air-quality-index
+  description: A NodeJs command line interface tool that reads air quality of desired area. Built during the height of 2019 Malaysia Haze crisis. Published on <a class="underline-link" href="https://www.npmjs.com/package/my-air-quality">NPM</a>.
+  used:
+    - thing: JavaScript
+    - thing: Air Quality Programmatic APIs
+    - thing: NodeJs
+
+- name: Cyberdrop CLI
+  url: https://github.com/izqalan/CyberDrop-cli
+  code: https://github.com/izqalan/CyberDrop-cli
+  description: An automated Cyberdrop.io album downloader using command line tool. Due to the inability to download all media in an album with one click I developed a tool that scrapes the webpage for media links and download them to local machine. Published on <a class="underline-link" href="www.npmjs.com/package/cyberdrop-cli/">NPM</a>.
+  used:
+    - thing: NodeJs
+    - thing: JavaScript
+    - thing: CLI
+
+- name: Cyberdrop Telegram
+  url: https://github.com/izqalan/Cyberdrop-Telegram
+  code: https://github.com/izqalan/Cyberdrop-Telegram
+  description: A Cyberdrop.io album downloader using telegram bot. Hosted on Heroku.
+  used:
+    - thing: NodeJs
+    - thing: JavaScript
+    - thing: bot
+    - thing: Heroku
+
