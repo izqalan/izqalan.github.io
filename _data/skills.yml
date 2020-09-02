@@ -6,11 +6,11 @@ languages:
 
 frameworks:
   - item: React/Redux
-  - item: NodeJs
   - item: Agile Development
   - item: Flutter
 
 tools:
+  - item: NodeJs
   - item: Cypress.io
   - item: Mocha
   - item: Travis CI
