@@ -1,12 +1,12 @@
 # Site settings
 name: Izqalan Nor'Izad
-title: Izqalan Nor'Izad | Software Engineer
+title: Izqalan | Software Engineer
 description: Fullstack software engineer focused on building scalable, beautiful interfaces and experiences
 url: https://izqalan.github.io/
 baseurl: ''
 email: izqalan@gmail.com
 cover: https://izqalan.github.io/img/og.png
-logo: https://izqalan.github.io/img/emojis/technologist.png
+logo: https://izqalan.github.io/img/emojis/technologist-male-light.png
 resume: https://izqalan.github.io/resume.pdf
 social:
   - title: email
