@@ -23,7 +23,7 @@ body {
   font-family: $Apercu;
   line-height: 1.5;
   width: 100%;
-  scroll-snap-type: y mandatory;
+  // scroll-snap-type: y mandatory;
   &.night {
     background-color: $night;
     color: $slate;
