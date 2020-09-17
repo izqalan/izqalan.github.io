@@ -26,10 +26,18 @@
     - thing: Air Quality Programmatic APIs
     - thing: NodeJs
 
+- name: Cy Client
+  url: https://github.com/izqalan/cy-client
+  code: https://github.com/izqalan/cy-client
+  description: A C# executable Cyberdrop.me album downloader built on .NET framework.
+  used:
+    - thing: C#
+    - thing: .NET
+
 - name: Cyberdrop CLI
   url: https://github.com/izqalan/CyberDrop-cli
   code: https://github.com/izqalan/CyberDrop-cli
-  description: An automated Cyberdrop.io album downloader using command line tool. Due to the inability to download all media in an album with one click I developed a tool that scrapes the webpage for media links and download them to local machine. Published on <a class="underline-link" href="www.npmjs.com/package/cyberdrop-cli/">NPM</a>.
+  description: An automated Cyberdrop.me album downloader using command line tool. Due to the inability to download all media in an album with one click I developed a tool that scrapes the webpage for media links and download them to local machine. Published on <a class="underline-link" href="www.npmjs.com/package/cyberdrop-cli/">NPM</a>.
   used:
     - thing: NodeJs
     - thing: JavaScript
@@ -38,7 +46,7 @@
 - name: Cyberdrop Telegram
   url: https://github.com/izqalan/Cyberdrop-Telegram
   code: https://github.com/izqalan/Cyberdrop-Telegram
-  description: A Cyberdrop.io album downloader using telegram bot. Hosted on Heroku.
+  description: A Cyberdrop.me album downloader using telegram bot. Hosted on Heroku.
   used:
     - thing: NodeJs
     - thing: JavaScript
