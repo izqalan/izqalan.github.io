@@ -7,6 +7,14 @@
     - thing: NodeJs
     - thing: Axios
 
+- name: Malaysia Cross-Industry Virtual Hackathon 2020
+  url: https://www.facebook.com/RISECorporateInnovation/posts/1288916688124620
+  code: https://www.facebook.com/RISECorporateInnovation/posts/1288916688124620
+  description: Winner for HLX’s problem statement on how to utilized unused office spaces.
+  used: 
+    - thing: ReactJs
+    - thing: React Native
+
 - name: Collaborative Kitchen
   url: https://github.com/izqalan/fren
   code: https://github.com/izqalan/fren
