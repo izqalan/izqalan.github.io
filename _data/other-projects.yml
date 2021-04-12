@@ -1,3 +1,13 @@
+- name: Personal Blog
+  url: https://blog.izqalan.dev/
+  code: https://blog.izqalan.dev/
+  description: A personal blog built on Gatsby and Strapi hosted by Vercel.
+  used:
+    - thing: Gatsby
+    - thing: Vercel
+    - thing: AWS S3
+    - thing: Strapi
+
 - name: Bank Negara Open API
   url: https://api.bnm.gov.my/portal
   code: https://github.com/izqalan/bnm-api
@@ -41,23 +51,3 @@
   used:
     - thing: C#
     - thing: .NET
-
-- name: Cyberdrop CLI
-  url: https://github.com/izqalan/CyberDrop-cli
-  code: https://github.com/izqalan/CyberDrop-cli
-  description: An automated Cyberdrop.me album downloader using command line tool. Due to the inability to download all media in an album with one click I developed a tool that scrapes the webpage for media links and download them to local machine. Published on <a class="underline-link" href="www.npmjs.com/package/cyberdrop-cli/">NPM</a>.
-  used:
-    - thing: NodeJs
-    - thing: JavaScript
-    - thing: CLI
-
-- name: Cyberdrop Telegram
-  url: https://github.com/izqalan/Cyberdrop-Telegram
-  code: https://github.com/izqalan/Cyberdrop-Telegram
-  description: A Cyberdrop.me album downloader using telegram bot. Hosted on Heroku.
-  used:
-    - thing: NodeJs
-    - thing: JavaScript
-    - thing: bot
-    - thing: Heroku
-

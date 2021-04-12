@@ -1,13 +1,13 @@
 languages:
   - item: JavaScript (ES6)
   - item: Dart
-  - item: Java
-  - item: C/C++
+  - item: C#
 
 frameworks:
   - item: React/Redux
   - item: Agile Development
   - item: Flutter
+  - item: Gatsby.js
 
 tools:
   - item: NodeJs
@@ -29,3 +29,4 @@ cloud:
   - item: Heroku
   - item: Firebase
   - item: AWS (Cloudfront, S3)
+  - item: Supabase
