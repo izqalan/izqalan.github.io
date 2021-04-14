@@ -25,6 +25,13 @@
     - thing: ReactJs
     - thing: React Native
 
+- name: Frontend Mentor Challenges
+  url: https://github.com/izqalan/frontend-mentor
+  code: https://github.com/izqalan/frontend-mentor
+  description: Various frontendmentor.io and others challenges
+  used:
+    - thing: Various 
+
 - name: Collaborative Kitchen
   url: https://github.com/izqalan/fren
   code: https://github.com/izqalan/fren
