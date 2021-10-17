@@ -13,7 +13,6 @@ tools:
   - item: NodeJs
   - item: Cypress.io
   - item: Mocha
-  - item: Travis CI
   - item: GitLab CI
   - item: GitHub Actions
 
