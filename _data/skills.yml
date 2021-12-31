@@ -1,5 +1,5 @@
 languages:
-  - item: JavaScript (ES6)
+  - item: JavaScript (ESM)
   - item: Dart
   - item: C#
 
@@ -19,13 +19,12 @@ tools:
 design:
   - item: NoSql
   - item: Sql
-  - item: Sequalize ORM
   - item: Postgres
   - item: Firestore
-  - item: Realtime Database
 
 cloud:
   - item: Heroku
   - item: Firebase
-  - item: AWS (Cloudfront, S3)
+  - item: AWS S3
+  - item: AWS Rekognition
   - item: Supabase
