@@ -1,13 +1,10 @@
 languages:
   - item: JavaScript (ESM)
-  - item: Dart
-  - item: C#
+  - item: Go
 
 frameworks:
   - item: React/Redux
-  - item: Agile Development
-  - item: Flutter
-  - item: Gatsby.js
+  - item: Gin
 
 tools:
   - item: NodeJs
@@ -23,8 +20,6 @@ design:
   - item: Firestore
 
 cloud:
-  - item: Heroku
   - item: Firebase
-  - item: AWS S3
-  - item: AWS Rekognition
-  - item: Supabase
+  - item: Digital Ocean
+  - item: AWS

@@ -1,12 +1,14 @@
-- name: Personal Blog
-  url: https://blog.izqalan.dev/
-  code: https://blog.izqalan.dev/
-  description: A personal blog built on Gatsby and Strapi hosted by Vercel.
+
+
+- name: Distributed Ledger Technology (DLT) for Campus Election
+  url: https://github.com/izqalan/fabric-voting
+  code: https://github.com/izqalan/fabric-voting
+  description: A Distributed Ledger Technology (DLT) based e-voting system using Hyperledger Fabric.
   used:
-    - thing: Gatsby
-    - thing: Vercel
-    - thing: AWS S3
-    - thing: Strapi
+    - thing: Hyperledger Fabric
+    - thing: Digital Ocean
+    - thing: Go
+    - thing: NextJs
 
 - name: Bank Negara Open API
   url: https://api.bnm.gov.my/portal
